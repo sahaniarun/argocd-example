@@ -1,2 +1,2 @@
-# Argocd Example LARA LAPPA
+# Argocd Example
 Example for using ArgoCD
